@@ -8,6 +8,6 @@ for i in range (people):
     names.append(newName)
     
     
-for name in names:
+for name in nams:
     print(name)
 
