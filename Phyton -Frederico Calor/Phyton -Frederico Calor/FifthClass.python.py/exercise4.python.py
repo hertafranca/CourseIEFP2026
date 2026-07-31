@@ -1,0 +1,1 @@
+#Criar um programa que imprima os números par e impar para cada número de acordo com sua caracterstica:
